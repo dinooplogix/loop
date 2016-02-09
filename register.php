@@ -1,0 +1,1 @@
+register html for method 2
